@@ -2,3 +2,5 @@ Nama   : Syifa Auvia Baehaqi
 NIM    : 6701202061
 Tempat,Tanggal lahir : Bandung, 24 Februari 2001
 IPK    : 3,6
+Hobi   : Travelling
+Cita-cita : Interpreneur
